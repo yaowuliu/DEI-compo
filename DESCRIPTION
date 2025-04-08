@@ -1,0 +1,11 @@
+Package: DEIcompo
+Type: Package
+Title: Direct estimation of the type I error methods for composite null testing
+Version: 0.9
+Author: Yaowu Liu
+Maintainer: Yaowu Liu <yaowuliu615@gmail.com>
+Description: This package implemented the DEI_B, a fast and powerful method for large-scale composite null testing such as in mediation analysis.
+License: What license is it under?
+Encoding: GPLv3
+LazyData: true
+RoxygenNote: 7.2.3
