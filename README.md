@@ -4,7 +4,7 @@ This package concerns the direct estimation of the type I error methods for comp
 ## Installation
 ```
 library(devtools)
-devtools::install_github("yaowuliu/DEIcompo")
+devtools::install_github("yaowuliu/DEI-compo")
 ```
 
 ## Usage
